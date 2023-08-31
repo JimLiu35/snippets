@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: definition
+# uuid: dfn
+# key: /dfn
+# condition: t
+# --
+\$\mathbb{D}\$`%`$0

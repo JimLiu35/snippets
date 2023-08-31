@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: logic_and
+# uuid: logic_and
+# key: /land
+# condition: t
+# --
+\$\bigwedge\$`%`$0

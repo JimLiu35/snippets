@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Exercise/Example
+# uuid: ex
+# key: /ex
+# condition: t
+# --
+\$\mathbb{E}\$

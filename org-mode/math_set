@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: math_set
+# uuid: math_set
+# key: /mtst
+# condition: t
+# --
+\$\mathbb{$1}\$`%`$0

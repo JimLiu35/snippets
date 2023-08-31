@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: text box
+# key: tb
+# --
+\text{$1}$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: My interpretation
+# uuid: mit
+# key: /mit
+# condition: t
+# --
+\$\mathbb{M}\$

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: org_math_mode
+# uuid: org_math_mode
+# key: $$
+# condition: t
+# --
+\\( ${1:math_expression} \\)`%`$0

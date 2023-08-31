@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: set
+# uuid: set
+# key: /st
+# condition: t
+# --
+\mathbb{$1}`%`$0

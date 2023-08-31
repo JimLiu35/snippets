@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: logic_or
+# uuid: logic_or
+# key: /lor
+# condition: t
+# --
+\$\bigvee\$`%`$0
