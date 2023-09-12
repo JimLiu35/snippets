@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: contradiction
+# uuid: contradiction
+# key: /contra
+# condition: t
+# --
+\\Rightarrow\\!\\Leftarrow 
